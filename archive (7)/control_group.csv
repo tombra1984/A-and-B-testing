@@ -1,4 +1,4 @@
-Campaign Name;Date;Spend [USD];# of Impressions;Reach;# of Website Clicks;# of Searches;# of View Content;# of Add to Cart;# of Purchase
+Campaign Name;Date;Amount Spend [USD];Number of Impressions;Reach;Number of Website Clicks;Number of Searches;Number of Content View;Number of Add to Cart; Number of Purchase
 Control Campaign;1.08.2019;2280;82702;56930;7016;2290;2159;1819;618
 Control Campaign;2.08.2019;1757;121040;102513;8110;2033;1841;1219;511
 Control Campaign;3.08.2019;2343;131711;110862;6508;1737;1549;1134;372
