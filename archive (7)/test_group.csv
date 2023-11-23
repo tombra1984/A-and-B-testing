@@ -1,4 +1,4 @@
-Campaign Name;Date;Amount Spent [USD];Number of Impressions;Reach;Number of Website Clicks;Number of Searches;Number of Content View;Number of Add to Cart;Number of Purchase
+Campaign Name;Date;Amount Spent [USD];Number of Impressions;Reach;Number of Website Clicks;Number of Searches;Content Viewed;Added to Cart;Purchased
 Test Campaign;1.08.2019;3008;39550;35820;3038;1946;1069;894;255
 Test Campaign;2.08.2019;2542;100719;91236;4657;2359;1548;879;677
 Test Campaign;3.08.2019;2365;70263;45198;7885;2572;2367;1268;578
